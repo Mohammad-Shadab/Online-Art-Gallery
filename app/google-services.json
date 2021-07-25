@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777366787408",
+    "project_id": "online-art-gallery-pr",
+    "storage_bucket": "online-art-gallery-pr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777366787408:android:18d9308a4887a4ea2a0855",
+        "android_client_info": {
+          "package_name": "com.example.onlineartgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777366787408-dseqk9iitjh2f44ol16egsjf22oungmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWJ9w--63eS7JRR1HpIqsjck1gKarkSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777366787408-dseqk9iitjh2f44ol16egsjf22oungmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
